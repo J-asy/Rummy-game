@@ -7,16 +7,16 @@ Points are awarded to the player whose hand has the lowest value at the end of a
 The value of a hand depends on how you decide to organise your cards – called “forming melds.”
 Visit https://cardgames.io/rummy/ for an idea of how the game is played.
 
-In this project a Game AI player is implemented to play a game of Gin Rummy based on a 
+In this project, a Game AI player is implemented to play a game of Gin Rummy based on a 
 heuristic strategy with memory management. For a detailed explanation on the game strategy chosen
-and application of functional programming concepts, refer to this [pdf](https://github.com/J-asy/Rummy-game/blob/main/Explanation.pdf).
+and application of functional programming concepts, refer to [this pdf](https://github.com/J-asy/Rummy-game/blob/main/Explanation.pdf).
+
+To compile: `stack build` <br/>
+To execute / run a game: `stack exec staticgame` <br/><br/>
 
 ## Demo
-To compile: `stack build` <br/>
-To execute: `stack exec staticgame` <br/><br/>
-
 The following is a demo for compiling and executing the game.
-Note that in the demo shown a player is playing against another instance of itself. 
+Note that in this demo, the Game AI is playing against another instance of itself. <br/><br/>
 ![demo gif](https://github.com/J-asy/Rummy-game/blob/main/demo/demo-gif.gif)
 
 ## Credits
