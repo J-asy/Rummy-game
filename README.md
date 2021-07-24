@@ -21,5 +21,5 @@ Note that in this demo, the Game AI is playing against another instance of itsel
 
 ## Credits
 
-Code base by [Tim Dwyer](https://ialab.it.monash.edu/~dwyer/).
-Code in [Player.hs](https://github.com/J-asy/Rummy-game/blob/main/staticgame/Player.hs) is work by Joanne Ang.
+Code base by [Tim Dwyer](https://ialab.it.monash.edu/~dwyer/).<br/>
+Code in [Player.hs](https://github.com/J-asy/Rummy-game/blob/main/staticgame/Player.hs) by Joanne Ang.
